@@ -1,0 +1,14 @@
+
+App{
+    height:100%;
+    width: 100%;
+    background-color: rgb(36, 156, 156);
+}
+
+home_img{
+    width: 100%; 
+    height: auto;  
+    text-align: center;
+    justify-content: center;
+}
+
